@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TesseractExample</string>
+    <string name="button">Capture Image</string>
+    <string name="result_default">The result will be here</string>
+</resources>
